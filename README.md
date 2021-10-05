@@ -16,7 +16,7 @@ Once running, app is accessible on http://localhost:8080
 
 
 ## CI/CD Pipeline Project -
-Sample Nodejs App is used. Each section can be mini project but when combined it creates a CI/CD pipeline with the pipeline as code. Sections can be divided into
+Sample Nodejs App is used. Each section can be its own mini project but when combined it creates a CI/CD pipeline with the pipeline as code. Sections can be divided into
 1.	Source Control Management - Git Basics
 2.	Build Automation (Gradle)
 3.	Continuous Integration (Jenkins)
