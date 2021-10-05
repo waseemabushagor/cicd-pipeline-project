@@ -1,6 +1,6 @@
 # CI/CD Pipeline Project
 
-CI/CD pipeline to deploy a sample NodeJs app "train schedule"
+CI/CD pipeline to deploy a SAMPLE NodeJs app "train schedule"
 
 ## To Run The App
 
