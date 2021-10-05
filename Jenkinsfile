@@ -1,6 +1,7 @@
 pipeline {
     agent any
     environment {
+        //enter docker image from dockerhub
         DOCKER_IMAGE_NAME = "waseemabushagor/train-schedule"
     }
     stages {
